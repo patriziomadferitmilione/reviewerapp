@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/reviewerapp.github.io/static/css/main.fad38132.css",
-    "main.js": "/reviewerapp.github.io/static/js/main.da2316be.js",
-    "static/media/spinner.gif": "/reviewerapp.github.io/static/media/spinner.a1a996746e5e48352c81.gif",
-    "index.html": "/reviewerapp.github.io/index.html",
-    "main.fad38132.css.map": "/reviewerapp.github.io/static/css/main.fad38132.css.map",
-    "main.da2316be.js.map": "/reviewerapp.github.io/static/js/main.da2316be.js.map"
+    "main.css": "/reviewerapp/static/css/main.fad38132.css",
+    "main.js": "/reviewerapp/static/js/main.5b438ec5.js",
+    "static/media/spinner.gif": "/reviewerapp/static/media/spinner.a1a996746e5e48352c81.gif",
+    "index.html": "/reviewerapp/index.html",
+    "main.fad38132.css.map": "/reviewerapp/static/css/main.fad38132.css.map",
+    "main.5b438ec5.js.map": "/reviewerapp/static/js/main.5b438ec5.js.map"
   },
   "entrypoints": [
     "static/css/main.fad38132.css",
-    "static/js/main.da2316be.js"
+    "static/js/main.5b438ec5.js"
   ]
 }

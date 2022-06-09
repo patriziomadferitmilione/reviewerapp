@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reviewerapp.github.io/static/css/main.fad38132.css",
+    "main.js": "/reviewerapp.github.io/static/js/main.da2316be.js",
+    "static/media/spinner.gif": "/reviewerapp.github.io/static/media/spinner.a1a996746e5e48352c81.gif",
+    "index.html": "/reviewerapp.github.io/index.html",
+    "main.fad38132.css.map": "/reviewerapp.github.io/static/css/main.fad38132.css.map",
+    "main.da2316be.js.map": "/reviewerapp.github.io/static/js/main.da2316be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad38132.css",
+    "static/js/main.da2316be.js"
+  ]
+}

@@ -16,14 +16,9 @@
       "src": "logo256.png",
       "type": "image/png",
       "sizes": "256x256"
-    },
-    {
-      "src": "apple-touch-icon.png",
-      "type": "image/png",
-      "sizes": "180x180"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"

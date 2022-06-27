@@ -7,3 +7,6 @@ In order to deploy it and show the UI I had to comment out all the dynamic funct
 Inspired by Brad Traversy,
 
 Enjoy!
+
+
+(check out the master branch for the source code)
